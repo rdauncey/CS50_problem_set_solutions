@@ -1,21 +1,5 @@
-# CS50 Problem Set Solutions
-Code solutions to the CS50 course problems. See difference branches for the different problem sets. The questions can be found here:
+# Problem Set 3 Solutions
 
-https://cs50.harvard.edu/x/2020/psets/1/
+Plurality - a C program that implements a plurality voting system ("winner takes all" / "first past the post"), given a list of candidates and a number of voters.
 
-https://cs50.harvard.edu/x/2020/psets/2/
-
-https://cs50.harvard.edu/x/2020/psets/3/
-
-https://cs50.harvard.edu/x/2020/psets/4/
-
-https://cs50.harvard.edu/x/2020/psets/5/
-
-https://cs50.harvard.edu/x/2020/psets/6/
-
-https://cs50.harvard.edu/x/2020/psets/7/
-
-And the final project (in the Android track):
-
-https://cs50.harvard.edu/x/2020/tracks/mobile/android/
-
+Tideman - a C program that implements a tideman voting system (preferential voting, which always produces the "Condorcet winner" i.e. the candidate who would have won in any head-to-head vote, if one exists), given a list of candidates and a number of voters.
