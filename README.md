@@ -1,5 +1,5 @@
 # CS50 Problem Set Solutions
-Code solutions to the CS50 course problems. See difference branches for the different problem sets. The questions can be found here:
+Code solutions to the CS50 course problems. See different folders for the different problem sets. The questions can be found here:
 
 https://cs50.harvard.edu/x/2020/psets/1/
 
