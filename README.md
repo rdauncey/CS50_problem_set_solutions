@@ -1,21 +1,5 @@
-# CS50 Problem Set Solutions
-Code solutions to the CS50 course problems. See difference branches for the different problem sets. The questions can be found here:
+# Problem Set 4 Solutions
 
-https://cs50.harvard.edu/x/2020/psets/1/
+Filter - a C program to apply filters to bitmap images (the relevant files are bmp.h, filter, filter.c, helpers.c, helpers.h, Makefile)
 
-https://cs50.harvard.edu/x/2020/psets/2/
-
-https://cs50.harvard.edu/x/2020/psets/3/
-
-https://cs50.harvard.edu/x/2020/psets/4/
-
-https://cs50.harvard.edu/x/2020/psets/5/
-
-https://cs50.harvard.edu/x/2020/psets/6/
-
-https://cs50.harvard.edu/x/2020/psets/7/
-
-And the final project (in the Android track):
-
-https://cs50.harvard.edu/x/2020/tracks/mobile/android/
-
+Recover - a C program to recover JPEGs from a forensic image
