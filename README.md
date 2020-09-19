@@ -1,21 +1,7 @@
-# CS50 Problem Set Solutions
-Code solutions to the CS50 course problems. See difference branches for the different problem sets. The questions can be found here:
+# Problem Set 7 Solutions
 
-https://cs50.harvard.edu/x/2020/psets/1/
+Movies (SQL 1-13) - commands for SQL to create tables as per each brief, from the iMDb movies database.
 
-https://cs50.harvard.edu/x/2020/psets/2/
+Houses - a program to import student data into a database, and then produce class rosters.
 
-https://cs50.harvard.edu/x/2020/psets/3/
-
-https://cs50.harvard.edu/x/2020/psets/4/
-
-https://cs50.harvard.edu/x/2020/psets/5/
-
-https://cs50.harvard.edu/x/2020/psets/6/
-
-https://cs50.harvard.edu/x/2020/psets/7/
-
-And the final project (in the Android track):
-
-https://cs50.harvard.edu/x/2020/tracks/mobile/android/
 
